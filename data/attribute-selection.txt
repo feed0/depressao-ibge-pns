@@ -1,0 +1,58 @@
+Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?
+Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?
+Algum médico já lhe receitou algum medicamento para depressão?
+Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?
+Que idade o(a) Sr(a) tinha no primeiro diagnóstico de depressão?
+O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?
+Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?
+Por causa da depressão Faz psicoterapia
+Por causa da depressão Toma medicamentos
+Algum dos medicamentos para depressão foi obtido em serviço público de saúde?
+Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?
+Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?
+Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?
+Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?
+O(a) Sr(a) normalmente trabalha(va) em ambientes
+No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã
+No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? 
+Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada) 
+Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins
+Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes
+Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos
+Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)
+O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)? 
+O(A) Sr(a) sabe seu peso? 
+Peso - Informado (em kg)\n(3 inteiros e 1 casa decimal)
+Peso - Final (em kg)\n(3 inteiros e 1 casa decimal)
+Peso - Final (em kg)\n(3 inteiros e 1 casa decimal)
+Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?
+Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica? 
+Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte? 
+Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?
+Atualmente, o(a) Sr(a) fuma algum produto do tabaco? 
+E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente? 
+Que idade o(a) Sr(a) tinha quando começou a fumar cigarro diariamente?
+Cônjuge ou companheiro(a) mora em nesse domicílio.
+Cônjuge ou companheiro(a) mora em outro domicílio.
+___já viveu com cônjuge ou companheiro (a) antes? 
+Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)? 
+Qual é o estado civil de ___? 
+tem algum plano de saúde médico particular, de empresa ou órgão público?
+Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)? 
+O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas
+O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações
+O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos
+Sexo
+Ano de nascimento
+Idade do morador na data de referência
+Unidade da Federação
+Tipo de área
+Tipo de situação censitária
+Cor ou raça
+Qual foi o curso mais elevado que ___frequentou 
+Cônjuge ou companheiro(a) mora em nesse domicílio.
+Idade do morador na data de referência
+Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins
+Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes
+Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)
+Quem fez isso com você
