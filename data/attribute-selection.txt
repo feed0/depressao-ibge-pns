@@ -47,6 +47,7 @@ Unidade da Federação
 Tipo de área
 Tipo de situação censitária
 Cor ou raça
+Qual é a sua orientação sexual?
 Qual foi o curso mais elevado que ___frequentou 
 Cônjuge ou companheiro(a) mora em nesse domicílio.
 Idade do morador na data de referência
