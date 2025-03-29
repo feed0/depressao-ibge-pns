@@ -2,7 +2,7 @@ Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a)
 Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?
 Algum médico já lhe receitou algum medicamento para depressão?
 Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?
-Que idade o(a) Sr(a) tinha no primeiro diagnóstico de depressão?
+Que idade o(a) Sr(a) tinha quando começou a fumar produto de tabaco diariamente?
 O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?
 Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?
 Por causa da depressão Faz psicoterapia
@@ -24,14 +24,12 @@ O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco p
 O(A) Sr(a) sabe seu peso? 
 Peso - Informado (em kg)\n(3 inteiros e 1 casa decimal)
 Peso - Final (em kg)\n(3 inteiros e 1 casa decimal)
-Peso - Final (em kg)\n(3 inteiros e 1 casa decimal)
 Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?
 Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica? 
 Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte? 
 Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?
 Atualmente, o(a) Sr(a) fuma algum produto do tabaco? 
 E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente? 
-Que idade o(a) Sr(a) tinha quando começou a fumar cigarro diariamente?
 Cônjuge ou companheiro(a) mora em nesse domicílio.
 Cônjuge ou companheiro(a) mora em outro domicílio.
 ___já viveu com cônjuge ou companheiro (a) antes? 
