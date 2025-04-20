@@ -1,0 +1,40 @@
+ModuloParteAnotacao,PosiçãoInicial,Tamanho,Codigo,Numero,Descricao,Tipo,Categoria,DIEGO,FELIPE
+Módulo C - Características gerais dos moradores ,,,C00703,C7,Ano de nascimento,9999,Não informado,TRUE,TRUE
+Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,9,Ignorado,TRUE,TRUE
+Módulo C - Características gerais dos moradores ,,,C01001,C10a,Cônjuge ou companheiro(a) mora em nesse domicílio.,9,Ignorado,TRUE,TRUE
+Módulo C - Características gerais dos moradores ,,,C013,C13,Cônjuge ou companheiro(a) mora em outro domicílio.,9,Ignorado,TRUE,TRUE
+Módulo C - Características gerais dos moradores ,,,C017,C17,___já viveu com cônjuge ou companheiro (a) antes?,9,Ignorado,TRUE,TRUE
+Módulo C - Características gerais dos moradores ,,,C018,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,2,Não sabe/não lembra,TRUE,TRUE
+Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,9,Ignorado,TRUE,TRUE
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,99,Ignorado,TRUE,TRUE
+Módulo I - Cobertura de Plano de Saúde,,,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",9 ,Ignorado,TRUE,TRUE
+Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,9 ,Ignorado,TRUE,TRUE
+Módulo I - Cobertura de Plano de Saúde,,,I00401,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,9 ,Ignorado,TRUE,TRUE
+Módulo I - Cobertura de Plano de Saúde,,,I00403,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,9 ,Ignorado,TRUE,TRUE
+Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,9 ,Ignorado,TRUE,TRUE
+Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",9 ,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,9 ,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P02801,P28a,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica?,9 ,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P034,P34,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte?",9 ,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P035,P35,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,9 ,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P039,P39,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",9 ,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P044,P44,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada)",9 ,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",9 ,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P051,P51,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",9 ,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P053,P53,Que idade o(a) Sr(a) tinha quando começou a fumar produto de tabaco diariamente?,99,Ignorado,TRUE,TRUE
+Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",9 ,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q092,Q92,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,9 ,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q09201,Q92a,Algum médico já lhe receitou algum medicamento para depressão?,3,Não sabe/não respondeu,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,4,Não sabe/não respondeu,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,9 ,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,99,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q09605,Q96a,Por causa da depressão Faz psicoterapia,9 ,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q09606,Q96a,Por causa da depressão Toma medicamentos,9 ,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,9 ,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,9 ,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",99,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",9 ,Ignorado,TRUE,TRUE
+Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",9 ,Ignorado,TRUE,TRUE
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",13,Outro ,TRUE,TRUE
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,13,Outro,TRUE,TRUE
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,13,Outro,TRUE,TRUE
