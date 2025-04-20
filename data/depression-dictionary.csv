@@ -1,427 +1,427 @@
-ModuloParteAnotacao,Posicao,Tamanho,Codigo,Numero,Descricao,Tipo,Classe,Felipe,Diego
-Parte 1 - Identificação e Controle,1.0,2.0,V0001,,Unidade da Federação,11,Rondônia,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,12,Acre,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,13,Amazonas,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,14,Roraima,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,15,Pará,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,16,Amapá,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,17,Tocantins,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,21,Maranhão,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,22,Piauí,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,23,Ceará,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,24,Rio Grande do Norte,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,25,Paraíba,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,26,Pernambuco,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,27,Alagoas,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,28,Sergipe,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,29,Bahia,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,31,Minas Gerais,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,32,Espírito Santo,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,33,Rio de Janeiro,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,35,São Paulo,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,41,Paraná,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,42,Santa Catarina,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,43,Rio Grande do Sul,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,50,Mato Grosso do Sul,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,51,Mato Grosso,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,52,Goiás,True,True
-Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,53,Distrito Federal,True,True
-Parte 1 - Identificação e Controle,31.0,1.0,V0026,,Tipo de situação censitária,1,Urbano,True,True
-Parte 1 - Identificação e Controle,,,V0026,,Tipo de situação censitária,2,Rural,True,True
-Parte 1 - Identificação e Controle,32.0,1.0,V0031,,Tipo de área,1,Capital,True,True
-Parte 1 - Identificação e Controle,,,V0031,,Tipo de área,2,"Resto da RM (Região Metropolitana, excluindo a capital)",True,True
-Parte 1 - Identificação e Controle,,,V0031,,Tipo de área,3,RIDE (excluindo a capital),True,True
-Parte 1 - Identificação e Controle,,,V0031,,Tipo de área,4,"Resto da UF (Unidade da Federação, excluindo a região metropolitana e RIDE)",True,True
-Módulo C - Características gerais dos moradores ,108.0,1.0,C006,C6,Sexo,1,Homem,True,True
-Módulo C - Características gerais dos moradores ,,,C006,C6,Sexo,2,Mulher,True,True
-Módulo C - Características gerais dos moradores ,,,C006,C6,Sexo,,Não aplicável,False,False
-Módulo C - Características gerais dos moradores ,113.0,4.0,C00703,C7,Ano de nascimento,ano atual - 130 a ano atual,Ano,True,True
-Módulo C - Características gerais dos moradores ,,,C00703,C7,Ano de nascimento,9999,Não informado,False,False
-Módulo C - Características gerais dos moradores ,,,C00703,C7,Ano de nascimento,,Não aplicável,False,False
-Módulo C - Características gerais dos moradores ,117.0,3.0,C008,C8,Idade do morador na data de referência,000 a 130,Idade (em anos),True,True
-Módulo C - Características gerais dos moradores ,,,C008,C8,Idade do morador na data de referência,,Não aplicável,False,False
-Módulo C - Características gerais dos moradores ,120.0,1.0,C009,C9,Cor ou raça,1,Branca,True,True
-Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,2,Preta,True,True
-Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,3,Amarela,True,True
-Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,4,Parda ,True,True
-Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,5,Indígena,True,True
-Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,9,Ignorado,False,False
-Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,,Não aplicável,False,False
-Módulo C - Características gerais dos moradores ,121.0,1.0,C01001,C10a,Cônjuge ou companheiro(a) mora em nesse domicílio.,1,Sim,True,True
-Módulo C - Características gerais dos moradores ,,,C01001,C10a,Cônjuge ou companheiro(a) mora em nesse domicílio.,2,Não,True,True
-Módulo C - Características gerais dos moradores ,,,C01001,C10a,Cônjuge ou companheiro(a) mora em nesse domicílio.,9,Ignorado,False,False
-Módulo C - Características gerais dos moradores ,,,C01001,C10a,Cônjuge ou companheiro(a) mora em nesse domicílio.,,Não aplicável,False,False
-Módulo C - Características gerais dos moradores ,124.0,1.0,C013,C13,Cônjuge ou companheiro(a) mora em outro domicílio.,1,Sim,True,True
-Módulo C - Características gerais dos moradores ,,,C013,C13,Cônjuge ou companheiro(a) mora em outro domicílio.,2,Não,True,True
-Módulo C - Características gerais dos moradores ,,,C013,C13,Cônjuge ou companheiro(a) mora em outro domicílio.,9,Ignorado,False,False
-Módulo C - Características gerais dos moradores ,,,C013,C13,Cônjuge ou companheiro(a) mora em outro domicílio.,,Não aplicável,False,False
-Módulo C - Características gerais dos moradores ,128.0,1.0,C017,C17,___já viveu com cônjuge ou companheiro (a) antes?,1,Sim,True,True
-Módulo C - Características gerais dos moradores ,,,C017,C17,___já viveu com cônjuge ou companheiro (a) antes?,2,Não,True,True
-Módulo C - Características gerais dos moradores ,,,C017,C17,___já viveu com cônjuge ou companheiro (a) antes?,9,Ignorado,False,False
-Módulo C - Características gerais dos moradores ,,,C017,C17,___já viveu com cônjuge ou companheiro (a) antes?,,Não aplicável,False,False
-Módulo C - Características gerais dos moradores ,129.0,1.0,C018,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,1,Idade,True,True
-Módulo C - Características gerais dos moradores ,,,C018,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,2,Não sabe/não lembra,False,False
-Módulo C - Características gerais dos moradores ,,,C018,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,,Não aplicável,False,False
-Módulo C - Características gerais dos moradores ,130.0,3.0,C01801,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,000 a 130,Idade (em anos),True,True
-Módulo C - Características gerais dos moradores ,,,C01801,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,,Não aplicável,False,False
-Módulo C - Características gerais dos moradores ,133.0,1.0,C011,C11,Qual é o estado civil de ___?,1,Casado(a),True,True
-Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,2,Divorciado(a) ou desquitado(a) ou separado(a) judicialmente,True,True
-Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,3,Viúvo(a),True,True
-Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,4,Solteiro(a),True,True
-Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,9,Ignorado,False,False
-Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,,Não aplicável,False,False
-Módulo D - Características de educação dos moradores,146.0,2.0,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,01,Creche,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,02,Pré-escola ,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,03,Classe de alfabetização – CA ,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,04,Alfabetização de jovens e adultos,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,05,Antigo primário (elementar),True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,06,Antigo ginasial (médio 1º ciclo),True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,07,Regular do ensino fundamental ou do 1º grau ,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,08,Educação de jovens e adultos (EJA) ou supletivo do ensino fundamental,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,09,"Antigo científico, clássico etc. (médio 2º ciclo)",True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,10,Regular do ensino médio ou do 2º grau,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,11,Educação de jovens e adultos (EJA) ou supletivo do ensino médio,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,12,Superior – graduação,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,13,Especialização de nível superior (duração mínima de 360 horas),True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,14,Mestrado,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,15,Doutorado,True,True
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,99,Ignorado,False,False
-Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,Não aplicável,False,False
-Módulo I - Cobertura de Plano de Saúde,355.0,1.0,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",1,Sim,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",2,Não,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",9 ,Ignorado,False,False
-Módulo I - Cobertura de Plano de Saúde,,,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",,Não aplicável,False,False
-Módulo I - Cobertura de Plano de Saúde,361.0,1.0,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,1,Até 6 meses,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,2,Mais de 6 meses até 1 ano,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,3,Mais de 1 ano até 2 anos,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,4,Mais de 2 anos,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,9 ,Ignorado,False,False
-Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,,Não aplicável,False,False
-Módulo I - Cobertura de Plano de Saúde,364.0,1.0,I00401,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,1,Sim,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I00401,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,2,Não,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I00401,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,9 ,Ignorado,False,False
-Módulo I - Cobertura de Plano de Saúde,,,I00401,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,,Não aplicável,False,False
-Módulo I - Cobertura de Plano de Saúde,366.0,1.0,I00403,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,1,Sim,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I00403,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,2,Não,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I00403,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,9 ,Ignorado,False,False
-Módulo I - Cobertura de Plano de Saúde,,,I00403,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,,Não aplicável,False,False
-Módulo I - Cobertura de Plano de Saúde,367.0,1.0,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,1,Sim,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,2,Não,True,True
-Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,9 ,Ignorado,False,False
-Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,,Não aplicável,False,False
-Módulo M - Características do trabalho e apoio social,536.0,1.0,M005010,M5c,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",1,Sim,True,True
-Módulo M - Características do trabalho e apoio social,,,M005010,M5c,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",2,Não,True,True
-Módulo M - Características do trabalho e apoio social,,,M005010,M5c,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",,Não aplicável,False,False
-Módulo M - Características do trabalho e apoio social,542.0,1.0,M009,M9,O(a) Sr(a) normalmente trabalha(va) em ambientes,1,Fechados,True,True
-Módulo M - Características do trabalho e apoio social,,,M009,M9,O(a) Sr(a) normalmente trabalha(va) em ambientes,2,Abertos,True,True
-Módulo M - Características do trabalho e apoio social,,,M009,M9,O(a) Sr(a) normalmente trabalha(va) em ambientes,3,Ambos ,True,True
-Módulo M - Características do trabalho e apoio social,,,M009,M9,O(a) Sr(a) normalmente trabalha(va) em ambientes,,Não aplicável,False,False
-Módulo M - Características do trabalho e apoio social,551.0,1.0,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,0,Nenhum,True,True
-Módulo M - Características do trabalho e apoio social,,,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,1,Um,True,True
-Módulo M - Características do trabalho e apoio social,,,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,2,Dois,True,True
-Módulo M - Características do trabalho e apoio social,,,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,3,Três ou mais,True,True
-Módulo M - Características do trabalho e apoio social,,,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,,Não aplicável,False,False
-Módulo M - Características do trabalho e apoio social,552.0,1.0,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,0,Nenhum,True,True
-Módulo M - Características do trabalho e apoio social,,,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,1,Um,True,True
-Módulo M - Características do trabalho e apoio social,,,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,2,Dois,True,True
-Módulo M - Características do trabalho e apoio social,,,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,3,Três ou mais,True,True
-Módulo M - Características do trabalho e apoio social,,,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,,Não aplicável,False,False
-Módulo M - Características do trabalho e apoio social,553.0,1.0,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",1,Mais de uma vez por semana,True,True
-Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",2,Uma vez por semana,True,True
-Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",3,De 2 a 3 vezes por mês,True,True
-Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",4,Algumas vezes no ano,True,True
-Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",5,Uma vez no ano,True,True
-Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",6,Nenhuma vez,True,True
-Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",,Não aplicável,False,False
-Módulo M - Características do trabalho e apoio social,556.0,1.0,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",1,Mais de uma vez por semana,True,True
-Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",2,Uma vez por semana,True,True
-Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",3,De 2 a 3 vezes por mês,True,True
-Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",4,Algumas vezes no ano,True,True
-Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",5,Uma vez no ano,True,True
-Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",6,Nenhuma vez,True,True
-Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",,Não aplicável,False,False
-Módulo N - Percepção do estado de saúde ,570.0,1.0,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",1, Nenhum dia,True,True
-Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",2,Menos da metade dos dias,True,True
-Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",3,Mais da metade dos dias,True,True
-Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",4,Quase todos dias,True,True
-Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",9 ,Ignorado,False,False
-Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",,Não aplicável,False,False
-Módulo P - Estilos de vida,601.0,1.0,P00102,P1a,O(A) Sr(a) sabe seu peso?,1,Sim,True,True
-Módulo P - Estilos de vida,,,P00102,P1a,O(A) Sr(a) sabe seu peso?,2,Não sabe/Não lembra,True,False
-Módulo P - Estilos de vida,,,P00102,P1a,O(A) Sr(a) sabe seu peso?,,Não aplicável,False,False
-Módulo P - Estilos de vida,602.0,5.0,P00103,P1a,Peso - Informado (em kg)(3 inteiros e 1 casa decimal),1 a 599,Quilogramas,True,True
-Módulo P - Estilos de vida,,,P00103,P1a,Peso - Informado (em kg)(3 inteiros e 1 casa decimal),,Não aplicável,False,False
-Módulo P - Estilos de vida,607.0,5.0,P00104,P1a,Peso - Final (em kg)(3 inteiros e 1 casa decimal),1 a 599,Quilogramas,True,True
-Módulo P - Estilos de vida,,,P00104,P1a,Peso - Final (em kg)(3 inteiros e 1 casa decimal),,Não aplicável,False,False
-Módulo P - Estilos de vida,662.0,1.0,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,1,Não bebo nunca,True,True
-Módulo P - Estilos de vida,,,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,2,Menos de uma vez por mês,True,True
-Módulo P - Estilos de vida,,,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,3,Uma vez ou mais por mês,True,True
-Módulo P - Estilos de vida,,,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,9 ,Ignorado,False,False
-Módulo P - Estilos de vida,,,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,Não aplicável,False,False
-Módulo P - Estilos de vida,663.0,1.0,P02801,P28a,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica?,1 a 7,Dias,True,True
-Módulo P - Estilos de vida,,,P02801,P28a,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica?,0,Nunca ou menos de uma vez por semana,True,True
-Módulo P - Estilos de vida,,,P02801,P28a,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica?,9 ,Ignorado,False,False
-Módulo P - Estilos de vida,,,P02801,P28a,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,Não aplicável,False,False
-Módulo P - Estilos de vida,673.0,1.0,P034,P34,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte?",1,Sim,True,True
-Módulo P - Estilos de vida,,,P034,P34,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte?",2,Não,True,True
-Módulo P - Estilos de vida,,,P034,P34,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte?",9 ,Ignorado,False,False
-Módulo P - Estilos de vida,,,P034,P34,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte?",,Não aplicável,False,False
-Módulo P - Estilos de vida,674.0,1.0,P035,P35,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,1 a 7,Dias,True,True
-Módulo P - Estilos de vida,,,P035,P35,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,0,Nunca ou menos de uma vez por semana,True,True
-Módulo P - Estilos de vida,,,P035,P35,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,9 ,Ignorado,False,False
-Módulo P - Estilos de vida,,,P035,P35,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,,Não aplicável,False,False
-Módulo P - Estilos de vida,682.0,1.0,P039,P39,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",1,Sim,True,True
-Módulo P - Estilos de vida,,,P039,P39,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",2,Não,True,True
-Módulo P - Estilos de vida,,,P039,P39,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",9 ,Ignorado,False,False
-Módulo P - Estilos de vida,,,P039,P39,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",,Não aplicável,False,False
-Módulo P - Estilos de vida,699.0,1.0,P044,P44,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada)",1,Sim,True,True
-Módulo P - Estilos de vida,,,P044,P44,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada)",2,Não,True,True
-Módulo P - Estilos de vida,,,P044,P44,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada)",9 ,Ignorado,False,False
-Módulo P - Estilos de vida,,,P044,P44,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada)",,Não aplicável,False,False
-Módulo P - Estilos de vida,711.0,1.0,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",1,"Sim, diariamente",True,True
-Módulo P - Estilos de vida,,,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",2,"Sim, menos que diariamente",True,True
-Módulo P - Estilos de vida,,,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",3,Não fumo atualmente,True,True
-Módulo P - Estilos de vida,,,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",9 ,Ignorado,False,False
-Módulo P - Estilos de vida,,,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",,Não aplicável,False,False
-Módulo P - Estilos de vida,712.0,1.0,P051,P51,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",1,Sim,True,True
-Módulo P - Estilos de vida,,,P051,P51,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",2,Não,True,True
-Módulo P - Estilos de vida,,,P051,P51,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",9 ,Ignorado,False,False
-Módulo P - Estilos de vida,,,P051,P51,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",,Não aplicável,False,False
-Módulo P - Estilos de vida,714.0,2.0,P053,P53,Que idade o(a) Sr(a) tinha quando começou a fumar produto de tabaco diariamente?,1 a 98,Anos,True,True
-Módulo P - Estilos de vida,,,P053,P53,Que idade o(a) Sr(a) tinha quando começou a fumar produto de tabaco diariamente?,99,Ignorado,False,False
-Módulo P - Estilos de vida,,,P053,P53,Que idade o(a) Sr(a) tinha quando começou a fumar produto de tabaco diariamente?,,Não aplicável,False,False
-Módulo P - Estilos de vida,796.0,1.0,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",1,"Sim, diariamente",True,True
-Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",2,"Sim, menos do que diariamente",True,True
-Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",3,"Não, mas já usei no passado",True,True
-Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",4,Nunca usei,True,True
-Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",9 ,Ignorado,False,False
-Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",,Não aplicável,False,False
-Módulo Q - Doenças crônicas,986.0,1.0,Q092,Q92,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,1,Sim,True,True
-Módulo Q - Doenças crônicas,,,Q092,Q92,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,2,Não,True,True
-Módulo Q - Doenças crônicas,,,Q092,Q92,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,9 ,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q092,Q92,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,,Não aplicável,False,False
-Módulo Q - Doenças crônicas,987.0,1.0,Q09201,Q92a,Algum médico já lhe receitou algum medicamento para depressão?,1,Sim,True,True
-Módulo Q - Doenças crônicas,,,Q09201,Q92a,Algum médico já lhe receitou algum medicamento para depressão?,2,Não,True,True
-Módulo Q - Doenças crônicas,,,Q09201,Q92a,Algum médico já lhe receitou algum medicamento para depressão?,3,Não sabe/não respondeu,False,False
-Módulo Q - Doenças crônicas,,,Q09201,Q92a,Algum médico já lhe receitou algum medicamento para depressão?,,Não aplicável,False,False
-Módulo Q - Doenças crônicas,988.0,1.0,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,1,"Sim, todos                  ",True,True
-Módulo Q - Doenças crônicas,,,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,2,"Sim, alguns",True,True
-Módulo Q - Doenças crônicas,,,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,3,"Não, nenhum",True,True
-Módulo Q - Doenças crônicas,,,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,4,Não sabe/não respondeu,False,False
-Módulo Q - Doenças crônicas,,,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,,Não aplicável,False,False
-Módulo Q - Doenças crônicas,991.0,1.0,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,1,Sim,True,True
-Módulo Q - Doenças crônicas,,,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,2,"Não, só quando tem algum problema ",True,True
-Módulo Q - Doenças crônicas,,,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,3,Nunca vai ,True,True
-Módulo Q - Doenças crônicas,,,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,9 ,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,,Não aplicável,False,False
-Módulo Q - Doenças crônicas,992.0,2.0,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,01,Não está mais deprimido,True,True
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,02,O serviço de saúde é distante ou tem dificuldade de transporte,True,True
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,03,Não tem ânimo,True,True
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,04,O tempo de espera no serviço de saúde é muito grande,True,True
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,05,Tem dificuldades financeiras,True,True
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,06,O horário de funcionamento do serviço de saúde é incompatível com suas atividades de trabalho ou domésticas,True,True
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,07,Não conseguiu marcar consulta pelo plano de saúde ,True,True
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,08,Não sabe quem procurar ou aonde ir,True,True
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,09,Outro ,True,True
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,99,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,Não aplicável,False,False
-Módulo Q - Doenças crônicas,994.0,1.0,Q09605,Q96a,Por causa da depressão Faz psicoterapia,1,Sim,True,True
-Módulo Q - Doenças crônicas,,,Q09605,Q96a,Por causa da depressão Faz psicoterapia,2,Não,True,True
-Módulo Q - Doenças crônicas,,,Q09605,Q96a,Por causa da depressão Faz psicoterapia,9 ,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q09605,Q96a,Por causa da depressão Faz psicoterapia,,Não aplicável,False,False
-Módulo Q - Doenças crônicas,995.0,1.0,Q09606,Q96a,Por causa da depressão Toma medicamentos,1,Sim,True,True
-Módulo Q - Doenças crônicas,,,Q09606,Q96a,Por causa da depressão Toma medicamentos,2,Não,True,True
-Módulo Q - Doenças crônicas,,,Q09606,Q96a,Por causa da depressão Toma medicamentos,9 ,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q09606,Q96a,Por causa da depressão Toma medicamentos,,Não aplicável,False,False
-Módulo Q - Doenças crônicas,997.0,1.0,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,1,"Sim, todos                  ",True,True
-Módulo Q - Doenças crônicas,,,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,2,"Sim, alguns",True,True
-Módulo Q - Doenças crônicas,,,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,3,"Não, nenhum",True,True
-Módulo Q - Doenças crônicas,,,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,9 ,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,,Não aplicável,False,False
-Módulo Q - Doenças crônicas,999.0,1.0,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,1,Menos de 6 meses,True,True
-Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,2,De 6 meses a menos de 1 ano,True,True
-Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,3,De 1 ano a menos de  2 anos,True,True
-Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,4,De 2 anos a menos de 3 anos,True,True
-Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,5,3 anos ou mais,True,True
-Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,6,Nunca fez,True,True
-Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,9 ,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,,Não aplicável,False,False
-Módulo Q - Doenças crônicas,1000.0,2.0,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",01,Farmácia,True,True
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",02,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família),True,True
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",03,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público",True,True
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",04,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público",True,True
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",05,Ambulatório de hospital público,True,True
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",06,"Consultório particular, clínica privada ou ambulatório de hospital privado",True,True
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",07,Pronto atendimento ou emergência de hospital privado,True,True
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",08,No domicílio,True,True
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",09,Outro serviço,True,True
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",99,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,Não aplicável,False,False
-Módulo Q - Doenças crônicas,1004.0,1.0,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",1,Sim,True,True
-Módulo Q - Doenças crônicas,,,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",2,Não,True,True
-Módulo Q - Doenças crônicas,,,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",3,"Não houve encaminhamento, pois todas as consultas para depressão foram com profissional de saúde mental",True,True
-Módulo Q - Doenças crônicas,,,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",9 ,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",,Não aplicável,False,False
-Módulo Q - Doenças crônicas,1006.0,1.0,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",1,Não limita,True,True
-Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",2,Um pouco,True,True
-Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",3,Moderadamente,True,True
-Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",4,Intensamente,True,True
-Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",5,Muito intensamente,True,True
-Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",9 ,Ignorado,False,False
-Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1248.0,1.0,V00201,V2,"Nos últimos doze meses, alguém: Te ofendeu, humilhou ou ridicularizou na frente de outras pessoas?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00201,V2,"Nos últimos doze meses, alguém: Te ofendeu, humilhou ou ridicularizou na frente de outras pessoas?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00201,V2,"Nos últimos doze meses, alguém: Te ofendeu, humilhou ou ridicularizou na frente de outras pessoas?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1249.0,1.0,V00202,V2,"Nos últimos doze meses, alguém: Gritou com você ou te xingou?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00202,V2,"Nos últimos doze meses, alguém: Gritou com você ou te xingou?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00202,V2,"Nos últimos doze meses, alguém: Gritou com você ou te xingou?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1250.0,1.0,V00203,V2,"Nos últimos doze meses, alguém: Usou redes sociais ou celular para ameaçar, ofender, xingar ou expor imagens suas sem o seu consentimento?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00203,V2,"Nos últimos doze meses, alguém: Usou redes sociais ou celular para ameaçar, ofender, xingar ou expor imagens suas sem o seu consentimento?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00203,V2,"Nos últimos doze meses, alguém: Usou redes sociais ou celular para ameaçar, ofender, xingar ou expor imagens suas sem o seu consentimento?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1251.0,1.0,V00204,V2,"Nos últimos doze meses, alguém: Te ameaçou de ferir ou machucar alguém importante para você?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00204,V2,"Nos últimos doze meses, alguém: Te ameaçou de ferir ou machucar alguém importante para você?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00204,V2,"Nos últimos doze meses, alguém: Te ameaçou de ferir ou machucar alguém importante para você?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1252.0,1.0,V00205,V2,"Nos últimos doze meses, alguém: Destruiu alguma coisa sua de propósito?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00205,V2,"Nos últimos doze meses, alguém: Destruiu alguma coisa sua de propósito?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00205,V2,"Nos últimos doze meses, alguém: Destruiu alguma coisa sua de propósito?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1253.0,1.0,V003,V3,"Nos últimos doze meses, quantas vezes isso aconteceu com você?",1,Muitas vezes,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V003,V3,"Nos últimos doze meses, quantas vezes isso aconteceu com você?",2,Algumas vezes,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V003,V3,"Nos últimos doze meses, quantas vezes isso aconteceu com você?",3,Uma vez,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V003,V3,"Nos últimos doze meses, quantas vezes isso aconteceu com você?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1254.0,2.0,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",01,Cônjuge ou companheiro (a) ,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",02,Ex-Cônjuge ou ex-companheiro (a),True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",03,"Parceiro (a), namorado (a), ex-parceiro (a), ex-namorado (a)  ",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",04,"Pai, mãe, padrasto ou madrasta",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",05,"Filho(a), enteado(a)",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",06,Irmão(ã),True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",07,Outro parente,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",08,"Amigo(a)/colega, vizinho(a)",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",09,Empregado (a) em geral ,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",10,Patrão/patroa/chefe,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",11,Pessoa desconhecida,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",12,Policial,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",13,Outro ,True,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1256.0,1.0,V007,V7,Onde isso ocorreu?,1,Residência,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,2,Trabalho,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,3,"Escola, faculdade ou outro estabelecimento de ensino",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,4,"Bar, restaurante ou similar",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,5,Via pública ou outro local público,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,6,Internet/Redes Sociais/Celular,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,7,Outro ,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1257.0,1.0,V01401,V14,"Nos últimos doze meses, alguém: Te deu um tapa ou uma bofetada?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01401,V14,"Nos últimos doze meses, alguém: Te deu um tapa ou uma bofetada?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01401,V14,"Nos últimos doze meses, alguém: Te deu um tapa ou uma bofetada?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1258.0,1.0,V01402,V14,"Nos últimos doze meses, alguém: Te empurrou, segurou com força ou jogou algo em você com a intenção de machucar?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01402,V14,"Nos últimos doze meses, alguém: Te empurrou, segurou com força ou jogou algo em você com a intenção de machucar?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01402,V14,"Nos últimos doze meses, alguém: Te empurrou, segurou com força ou jogou algo em você com a intenção de machucar?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1259.0,1.0,V01403,V14,"Nos últimos doze meses, alguém: Te deu um soco, chutou ou arrastou pelo cabelo?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01403,V14,"Nos últimos doze meses, alguém: Te deu um soco, chutou ou arrastou pelo cabelo?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01403,V14,"Nos últimos doze meses, alguém: Te deu um soco, chutou ou arrastou pelo cabelo?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1260.0,1.0,V01404,V14,"Nos últimos doze meses, alguém: Tentou ou efetivamente estrangulou, asfixiou ou te queimou de propósito?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01404,V14,"Nos últimos doze meses, alguém: Tentou ou efetivamente estrangulou, asfixiou ou te queimou de propósito?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01404,V14,"Nos últimos doze meses, alguém: Tentou ou efetivamente estrangulou, asfixiou ou te queimou de propósito?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1261.0,1.0,V01405,V14,"Nos últimos doze meses, alguém: Te ameaçou ou feriu com uma faca, arma de fogo ou alguma outra arma ou objeto?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01405,V14,"Nos últimos doze meses, alguém: Te ameaçou ou feriu com uma faca, arma de fogo ou alguma outra arma ou objeto?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01405,V14,"Nos últimos doze meses, alguém: Te ameaçou ou feriu com uma faca, arma de fogo ou alguma outra arma ou objeto?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1262.0,1.0,V015,V15,"Nos últimos doze meses, quantas vezes isso aconteceu?",1,Muitas vezes,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V015,V15,"Nos últimos doze meses, quantas vezes isso aconteceu?",2,Algumas vezes,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V015,V15,"Nos últimos doze meses, quantas vezes isso aconteceu?",3,Uma vez,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V015,V15,"Nos últimos doze meses, quantas vezes isso aconteceu?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1263.0,2.0,V018,V18,Quem fez isso com você,01,Cônjuge ou companheiro (a),True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,02,Ex-Cônjuge ou ex-companheiro (a),True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,03,"Parceiro (a), namorado (a), ex-parceiro (a), ex-namorado (a",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,04,"Pai, mãe, padrasto ou madrasta",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,05,"Filho(a), enteado(a",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,06,Irmão(ã),True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,07,Outro parente,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,08,"Amigo(a)/colega, vizinho(a)",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,09,Empregado (a) em geral ,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,10,Patrão/patroa/chefe(a) ,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,11,Pessoa desconhecida,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,12,Policial,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,13,Outro,True,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1265.0,1.0,V019,V19,Onde isso ocorreu?,1,Residência,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,2,Trabalho,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,3,"Escola, faculdade ou outro estabelecimento de ensino",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,4,"Bar, restaurante ou similar",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,5,Via pública ou outro local público,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,6,Outro,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1266.0,1.0,V02701,V27,"Nos últimos doze meses, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02701,V27,"Nos últimos doze meses, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02701,V27,"Nos últimos doze meses, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1267.0,1.0,V02702,V27,"Nos últimos doze meses, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02702,V27,"Nos últimos doze meses, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02702,V27,"Nos últimos doze meses, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1268.0,1.0,V02801,V28,"E alguma vez na vida, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02801,V28,"E alguma vez na vida, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02801,V28,"E alguma vez na vida, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1269.0,1.0,V02802,V28,"E alguma vez na vida, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02802,V28,"E alguma vez na vida, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02802,V28,"E alguma vez na vida, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1270.0,1.0,V029,V29,"Nos últimos doze meses, quantas vezes isso aconteceu?",1,Muitas vezes,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V029,V29,"Nos últimos doze meses, quantas vezes isso aconteceu?",2, Algumas vezes,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V029,V29,"Nos últimos doze meses, quantas vezes isso aconteceu?",3, Uma vez,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V029,V29,"Nos últimos doze meses, quantas vezes isso aconteceu?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1271.0,2.0,V032,V32,Quem fez isso com você,01,Cônjuge ou companheiro (a),True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,02,Ex-Cônjuge ou ex-companheiro (a,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,03,"Parceiro (a), namorado (a), ex-parceiro (a), ex-namorado (a)",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,04,"Pai, mãe, padrasto ou madrasta",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,05,"Filho(a), enteado(a)   ",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,06, Irmão(ã),True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,07,Outro parente,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,08,"Amigo(a)/colega, vizinho(a",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,09,Empregado (a) em geral ,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,10,Patrão/patroa/chefe,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,11,Pessoa desconhecida,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,12,Policial,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,13,Outro,True,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1273.0,1.0,V033,V33,Onde isso ocorreu?,1,Residência,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,2,Trabalho,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,3,"Escola, faculdade ou outro estabelecimento de ensino",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,4,"Bar, restaurante ou similar",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,5,Via pública ou outro local público,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,6,Outro ,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1274.0,1.0,V034,V34,"Nos últimos doze meses, você deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desse ato",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V034,V34,"Nos últimos doze meses, você deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desse ato",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V034,V34,"Nos últimos doze meses, você deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desse ato",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1275.0,1.0,V03501,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Hematomas, cortes, fraturas, queimaduras ou outras lesões físicas ou ferimentos?",1,,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03501,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Hematomas, cortes, fraturas, queimaduras ou outras lesões físicas ou ferimentos?",2,,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03501,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Hematomas, cortes, fraturas, queimaduras ou outras lesões físicas ou ferimentos?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1276.0,1.0,V03502,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Medo, tristeza, desânimo, dificuldade para dormir, ansiedade, depressão ou outras consequências psicológicas?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03502,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Medo, tristeza, desânimo, dificuldade para dormir, ansiedade, depressão ou outras consequências psicológicas?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03502,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Medo, tristeza, desânimo, dificuldade para dormir, ansiedade, depressão ou outras consequências psicológicas?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1277.0,1.0,V03503,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Doença sexualmente transmissível ou gravidez indesejada?",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03503,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Doença sexualmente transmissível ou gravidez indesejada?",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03503,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Doença sexualmente transmissível ou gravidez indesejada?",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1278.0,1.0,V036,V36,"Por causa desta (s) consequência (s), você procurou algum atendimento de saúde",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V036,V36,"Por causa desta (s) consequência (s), você procurou algum atendimento de saúde",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V036,V36,"Por causa desta (s) consequência (s), você procurou algum atendimento de saúde",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1279.0,1.0,V037,V37,"Por causa desta (s) consequência (s), você recebeu algum atendimento de saúde",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V037,V37,"Por causa desta (s) consequência (s), você recebeu algum atendimento de saúde",2,Não ,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V037,V37,"Por causa desta (s) consequência (s), você recebeu algum atendimento de saúde",,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1280.0,2.0,V038,V38,Onde foi realizado este atendimento de saúde,01,No local,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,02, Farmácia.,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,03,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família).,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,04,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,05,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público.",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,06,Ambulatório de hospital público.,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,07,"Consultório particular, clínica privada ou ambulatório de hospital privado.",True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,08,Pronto atendimento ou emergência de hospital privado.,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,09, No domicílio,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,10,Outro serviço,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,Não aplicável,False,False
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1282.0,1.0,V039,V39,"Por causa desta (s) consequência (s), você precisou ser internado por 24 horas ou mais",1,Sim,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V039,V39,"Por causa desta (s) consequência (s), você precisou ser internado por 24 horas ou mais",2,Não,True,
-  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V039,V39,"Por causa desta (s) consequência (s), você precisou ser internado por 24 horas ou mais",,Não aplicável,False,False
-Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),1304.0,1.0,Y008,Y8,Qual é a sua orientação sexual?,1,Heterosexual,True,True
-Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,2,Bissexual,True,True
-Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,3,Homosexual,True,True
-Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,4,Outra orientação,True,True
-Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,5,Não sabe ,True,True
-Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,6,Recusou-se a responder,True,True
+ModuloParteAnotacao,Posicao,Tamanho,Codigo,Numero,Descricao,Dtype,Tipo,Classe,Include,Felipe,Diego
+Parte 1 - Identificação e Controle,1.0,2.0,V0001,,Unidade da Federação,category,11,Rondônia,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,12,Acre,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,13,Amazonas,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,14,Roraima,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,15,Pará,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,16,Amapá,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,17,Tocantins,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,21,Maranhão,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,22,Piauí,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,23,Ceará,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,24,Rio Grande do Norte,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,25,Paraíba,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,26,Pernambuco,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,27,Alagoas,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,28,Sergipe,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,29,Bahia,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,31,Minas Gerais,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,32,Espírito Santo,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,33,Rio de Janeiro,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,35,São Paulo,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,41,Paraná,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,42,Santa Catarina,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,43,Rio Grande do Sul,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,50,Mato Grosso do Sul,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,51,Mato Grosso,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,52,Goiás,True,True,True
+Parte 1 - Identificação e Controle,,,V0001,,Unidade da Federação,,53,Distrito Federal,True,True,True
+Parte 1 - Identificação e Controle,31.0,1.0,V0026,,Tipo de situação censitária,category,1,Urbano,True,True,True
+Parte 1 - Identificação e Controle,,,V0026,,Tipo de situação censitária,,2,Rural,True,True,True
+Parte 1 - Identificação e Controle,32.0,1.0,V0031,,Tipo de área,category,1,Capital,True,True,True
+Parte 1 - Identificação e Controle,,,V0031,,Tipo de área,,2,"Resto da RM (Região Metropolitana, excluindo a capital)",True,True,True
+Parte 1 - Identificação e Controle,,,V0031,,Tipo de área,,3,RIDE (excluindo a capital),True,True,True
+Parte 1 - Identificação e Controle,,,V0031,,Tipo de área,,4,"Resto da UF (Unidade da Federação, excluindo a região metropolitana e RIDE)",True,True,True
+Módulo C - Características gerais dos moradores ,108.0,1.0,C006,C6,Sexo,category,1,Homem,True,True,True
+Módulo C - Características gerais dos moradores ,,,C006,C6,Sexo,,2,Mulher,True,True,True
+Módulo C - Características gerais dos moradores ,,,C006,C6,Sexo,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,113.0,4.0,C00703,C7,Ano de nascimento,Int16,ano atual - 130 a ano atual,Ano,True,True,True
+Módulo C - Características gerais dos moradores ,,,C00703,C7,Ano de nascimento,,9999,Não informado,False,False,False
+Módulo C - Características gerais dos moradores ,,,C00703,C7,Ano de nascimento,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,117.0,3.0,C008,C8,Idade do morador na data de referência,Int16,000 a 130,Idade (em anos),True,True,True
+Módulo C - Características gerais dos moradores ,,,C008,C8,Idade do morador na data de referência,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,120.0,1.0,C009,C9,Cor ou raça,category,1,Branca,True,True,True
+Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,,2,Preta,True,True,True
+Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,,3,Amarela,True,True,True
+Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,,4,Parda ,True,True,True
+Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,,5,Indígena,True,True,True
+Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,,9,Ignorado,False,False,False
+Módulo C - Características gerais dos moradores ,,,C009,C9,Cor ou raça,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,121.0,1.0,C01001,C10a,Cônjuge ou companheiro(a) mora em nesse domicílio.,bool,1,Sim,True,True,True
+Módulo C - Características gerais dos moradores ,,,C01001,C10a,Cônjuge ou companheiro(a) mora em nesse domicílio.,,2,Não,True,True,True
+Módulo C - Características gerais dos moradores ,,,C01001,C10a,Cônjuge ou companheiro(a) mora em nesse domicílio.,,9,Ignorado,False,False,False
+Módulo C - Características gerais dos moradores ,,,C01001,C10a,Cônjuge ou companheiro(a) mora em nesse domicílio.,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,124.0,1.0,C013,C13,Cônjuge ou companheiro(a) mora em outro domicílio.,bool,1,Sim,True,True,True
+Módulo C - Características gerais dos moradores ,,,C013,C13,Cônjuge ou companheiro(a) mora em outro domicílio.,,2,Não,True,True,True
+Módulo C - Características gerais dos moradores ,,,C013,C13,Cônjuge ou companheiro(a) mora em outro domicílio.,,9,Ignorado,False,False,False
+Módulo C - Características gerais dos moradores ,,,C013,C13,Cônjuge ou companheiro(a) mora em outro domicílio.,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,128.0,1.0,C017,C17,___já viveu com cônjuge ou companheiro (a) antes?,bool,1,Sim,True,True,True
+Módulo C - Características gerais dos moradores ,,,C017,C17,___já viveu com cônjuge ou companheiro (a) antes?,,2,Não,True,True,True
+Módulo C - Características gerais dos moradores ,,,C017,C17,___já viveu com cônjuge ou companheiro (a) antes?,,9,Ignorado,False,False,False
+Módulo C - Características gerais dos moradores ,,,C017,C17,___já viveu com cônjuge ou companheiro (a) antes?,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,129.0,1.0,C018,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,category,1,Idade,True,True,True
+Módulo C - Características gerais dos moradores ,,,C018,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,,2,Não sabe/não lembra,False,False,False
+Módulo C - Características gerais dos moradores ,,,C018,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,130.0,3.0,C01801,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,Int16,000 a 130,Idade (em anos),True,True,True
+Módulo C - Características gerais dos moradores ,,,C01801,C18,Que idade ___tinha quando começou a viver com seu(sua) primeiro(a)/único(a) marido (mulher) ou companheiro(a)?,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,133.0,1.0,C011,C11,Qual é o estado civil de ___?,category,1,Casado(a),True,True,True
+Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,,2,Divorciado(a) ou desquitado(a) ou separado(a) judicialmente,True,True,True
+Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,,3,Viúvo(a),True,True,True
+Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,,4,Solteiro(a),True,True,True
+Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,,9,Ignorado,False,False,False
+Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,,,Não aplicável,False,False,False
+Módulo D - Características de educação dos moradores,146.0,2.0,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,category,01,Creche,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,02,Pré-escola ,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,03,Classe de alfabetização – CA ,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,04,Alfabetização de jovens e adultos,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,05,Antigo primário (elementar),True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,06,Antigo ginasial (médio 1º ciclo),True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,07,Regular do ensino fundamental ou do 1º grau ,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,08,Educação de jovens e adultos (EJA) ou supletivo do ensino fundamental,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,09,"Antigo científico, clássico etc. (médio 2º ciclo)",True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,10,Regular do ensino médio ou do 2º grau,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,11,Educação de jovens e adultos (EJA) ou supletivo do ensino médio,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,12,Superior – graduação,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,13,Especialização de nível superior (duração mínima de 360 horas),True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,14,Mestrado,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,15,Doutorado,True,True,True
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,99,Ignorado,False,False,False
+Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,,Não aplicável,False,False,False
+Módulo I - Cobertura de Plano de Saúde,355.0,1.0,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",bool,1,Sim,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",,2,Não,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",,9 ,Ignorado,False,False,False
+Módulo I - Cobertura de Plano de Saúde,,,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",,,Não aplicável,False,False,False
+Módulo I - Cobertura de Plano de Saúde,361.0,1.0,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,category,1,Até 6 meses,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,,2,Mais de 6 meses até 1 ano,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,,3,Mais de 1 ano até 2 anos,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,,4,Mais de 2 anos,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,,9 ,Ignorado,False,False,False
+Módulo I - Cobertura de Plano de Saúde,,,I005,I5,Há quanto tempo sem interrupção _____ possui esse plano de saúde (único ou principal)?,,,Não aplicável,False,False,False
+Módulo I - Cobertura de Plano de Saúde,364.0,1.0,I00401,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,bool,1,Sim,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I00401,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,,2,Não,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I00401,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,,9 ,Ignorado,False,False,False
+Módulo I - Cobertura de Plano de Saúde,,,I00401,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a consultas,,,Não aplicável,False,False,False
+Módulo I - Cobertura de Plano de Saúde,366.0,1.0,I00403,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,bool,1,Sim,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I00403,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,,2,Não,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I00403,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,,9 ,Ignorado,False,False,False
+Módulo I - Cobertura de Plano de Saúde,,,I00403,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a internações,,,Não aplicável,False,False,False
+Módulo I - Cobertura de Plano de Saúde,367.0,1.0,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,bool,1,Sim,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,,2,Não,True,True,True
+Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,,9 ,Ignorado,False,False,False
+Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,,,Não aplicável,False,False,False
+Módulo M - Características do trabalho e apoio social,536.0,1.0,M005010,M5c,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",bool,1,Sim,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M005010,M5c,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",,2,Não,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M005010,M5c,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",,,Não aplicável,False,False,False
+Módulo M - Características do trabalho e apoio social,542.0,1.0,M009,M9,O(a) Sr(a) normalmente trabalha(va) em ambientes,category,1,Fechados,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M009,M9,O(a) Sr(a) normalmente trabalha(va) em ambientes,,2,Abertos,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M009,M9,O(a) Sr(a) normalmente trabalha(va) em ambientes,,3,Ambos ,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M009,M9,O(a) Sr(a) normalmente trabalha(va) em ambientes,,,Não aplicável,False,False,False
+Módulo M - Características do trabalho e apoio social,551.0,1.0,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,category,0,Nenhum,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,,1,Um,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,,2,Dois,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,,3,Três ou mais,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01401,M14a,Com quantos familiares ou parentes ___ pode contar em momentos bons ou ruins,,,Não aplicável,False,False,False
+Módulo M - Características do trabalho e apoio social,552.0,1.0,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,category,0,Nenhum,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,,1,Um,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,,2,Dois,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,,3,Três ou mais,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01501,M15a,Com quantos amigos próximos ___ pode contar em momentos bons ou ruins (Sem considerar os familiares ou parentes,,,Não aplicável,False,False,False
+Módulo M - Características do trabalho e apoio social,553.0,1.0,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",category,1,Mais de uma vez por semana,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",,2,Uma vez por semana,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",,3,De 2 a 3 vezes por mês,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",,4,Algumas vezes no ano,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",,5,Uma vez no ano,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",,6,Nenhuma vez,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01601,M16a,"Nos últimos doze meses, com que frequência o(a) Sr(a) se reuniu com outras pessoas para prática de atividades esportivas, exercícios físicos, recreativos ou artísticos",,,Não aplicável,False,False,False
+Módulo M - Características do trabalho e apoio social,556.0,1.0,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",category,1,Mais de uma vez por semana,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",,2,Uma vez por semana,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",,3,De 2 a 3 vezes por mês,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",,4,Algumas vezes no ano,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",,5,Uma vez no ano,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",,6,Nenhuma vez,True,True,True
+Módulo M - Características do trabalho e apoio social,,,M01901,M19a,"Nos últimos doze meses, com que frequência o(a) Sr(a) compareceu a atividades coletivas da sua religião ou de outra religião sem contar com situações como casamento, batizado, ou enterro)",,,Não aplicável,False,False,False
+Módulo N - Percepção do estado de saúde ,570.0,1.0,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",category,1, Nenhum dia,True,True,True
+Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",,2,Menos da metade dos dias,True,True,True
+Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",,3,Mais da metade dos dias,True,True,True
+Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",,4,Quase todos dias,True,True,True
+Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",,9 ,Ignorado,False,False,False
+Módulo N - Percepção do estado de saúde ,,,N016,N16,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,601.0,1.0,P00102,P1a,O(A) Sr(a) sabe seu peso?,bool,1,Sim,True,True,True
+Módulo P - Estilos de vida,,,P00102,P1a,O(A) Sr(a) sabe seu peso?,,2,Não sabe/Não lembra,True,True,False
+Módulo P - Estilos de vida,,,P00102,P1a,O(A) Sr(a) sabe seu peso?,,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,602.0,5.0,P00103,P1a,Peso - Informado (em kg)(3 inteiros e 1 casa decimal),float32,1 a 599,Quilogramas,True,True,True
+Módulo P - Estilos de vida,,,P00103,P1a,Peso - Informado (em kg)(3 inteiros e 1 casa decimal),,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,607.0,5.0,P00104,P1a,Peso - Final (em kg)(3 inteiros e 1 casa decimal),float32,1 a 599,Quilogramas,True,True,True
+Módulo P - Estilos de vida,,,P00104,P1a,Peso - Final (em kg)(3 inteiros e 1 casa decimal),,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,662.0,1.0,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,category,1,Não bebo nunca,True,True,True
+Módulo P - Estilos de vida,,,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,2,Menos de uma vez por mês,True,True,True
+Módulo P - Estilos de vida,,,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,3,Uma vez ou mais por mês,True,True,True
+Módulo P - Estilos de vida,,,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,9 ,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P027,P27,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,663.0,1.0,P02801,P28a,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica?,Int16,1 a 7,Dias,True,True,True
+Módulo P - Estilos de vida,,,P02801,P28a,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,0,Nunca ou menos de uma vez por semana,True,True,True
+Módulo P - Estilos de vida,,,P02801,P28a,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,9 ,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P02801,P28a,Quantos dias por semana o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,673.0,1.0,P034,P34,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte?",bool,1,Sim,True,True,True
+Módulo P - Estilos de vida,,,P034,P34,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte?",,2,Não,True,True,True
+Módulo P - Estilos de vida,,,P034,P34,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte?",,9 ,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P034,P34,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte?",,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,674.0,1.0,P035,P35,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,Int16,1 a 7,Dias,True,True,True
+Módulo P - Estilos de vida,,,P035,P35,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,,0,Nunca ou menos de uma vez por semana,True,True,True
+Módulo P - Estilos de vida,,,P035,P35,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,,9 ,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P035,P35,Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?,,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,682.0,1.0,P039,P39,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",bool,1,Sim,True,True,True
+Módulo P - Estilos de vida,,,P039,P39,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",,2,Não,True,True,True
+Módulo P - Estilos de vida,,,P039,P39,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",,9 ,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P039,P39,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,699.0,1.0,P044,P44,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada)",bool,1,Sim,True,True,True
+Módulo P - Estilos de vida,,,P044,P44,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada)",,2,Não,True,True,True
+Módulo P - Estilos de vida,,,P044,P44,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada)",,9 ,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P044,P44,"Nas suas atividades domésticas, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso? (não considerar atividade doméstica remunerada)",,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,711.0,1.0,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",category,1,"Sim, diariamente",True,True,True
+Módulo P - Estilos de vida,,,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",,2,"Sim, menos que diariamente",True,True,True
+Módulo P - Estilos de vida,,,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",,3,Não fumo atualmente,True,True,True
+Módulo P - Estilos de vida,,,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",,9 ,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P050,P50,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,712.0,1.0,P051,P51,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",bool,1,Sim,True,True,True
+Módulo P - Estilos de vida,,,P051,P51,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",,2,Não,True,True,True
+Módulo P - Estilos de vida,,,P051,P51,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",,9 ,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P051,P51,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,714.0,2.0,P053,P53,Que idade o(a) Sr(a) tinha quando começou a fumar produto de tabaco diariamente?,Int16,1 a 98,Anos,True,True,True
+Módulo P - Estilos de vida,,,P053,P53,Que idade o(a) Sr(a) tinha quando começou a fumar produto de tabaco diariamente?,,99,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P053,P53,Que idade o(a) Sr(a) tinha quando começou a fumar produto de tabaco diariamente?,,,Não aplicável,False,False,False
+Módulo P - Estilos de vida,796.0,1.0,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",category,1,"Sim, diariamente",True,True,True
+Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",,2,"Sim, menos do que diariamente",True,True,True
+Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",,3,"Não, mas já usei no passado",True,True,True
+Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",,4,Nunca usei,True,True,True
+Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",,9 ,Ignorado,False,False,False
+Módulo P - Estilos de vida,,,P06701,P67a,"O(a) Sr(a) usa aparelhos eletrônicos com nicotina líquida ou folha de tabaco picado (cigarro eletrônico, narguilé eletrônico, cigarro aquecido ou outro dispositivo eletrônico para fumar ou vaporizar)?",,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,986.0,1.0,Q092,Q92,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,bool,1,Sim,True,True,True
+Módulo Q - Doenças crônicas,,,Q092,Q92,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,,2,Não,True,True,True
+Módulo Q - Doenças crônicas,,,Q092,Q92,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,,9 ,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q092,Q92,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,987.0,1.0,Q09201,Q92a,Algum médico já lhe receitou algum medicamento para depressão?,bool,1,Sim,True,True,True
+Módulo Q - Doenças crônicas,,,Q09201,Q92a,Algum médico já lhe receitou algum medicamento para depressão?,,2,Não,True,True,True
+Módulo Q - Doenças crônicas,,,Q09201,Q92a,Algum médico já lhe receitou algum medicamento para depressão?,,3,Não sabe/não respondeu,False,False,False
+Módulo Q - Doenças crônicas,,,Q09201,Q92a,Algum médico já lhe receitou algum medicamento para depressão?,,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,988.0,1.0,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,category,1,"Sim, todos                  ",True,True,True
+Módulo Q - Doenças crônicas,,,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,,2,"Sim, alguns",True,True,True
+Módulo Q - Doenças crônicas,,,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,,3,"Não, nenhum",True,True,True
+Módulo Q - Doenças crônicas,,,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,,4,Não sabe/não respondeu,False,False,False
+Módulo Q - Doenças crônicas,,,Q09202,Q92b,Nas duas últimas semanas o(a) senhor(a) usou algum medicamento para depressão?,,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,991.0,1.0,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,category,1,Sim,True,True,True
+Módulo Q - Doenças crônicas,,,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,,2,"Não, só quando tem algum problema ",True,True,True
+Módulo Q - Doenças crônicas,,,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,,3,Nunca vai ,True,True,True
+Módulo Q - Doenças crônicas,,,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,,9 ,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q094,Q94a,O(A) Sr(a) vai ao médico/serviço de saúde regularmente por causa da depressão ou só quando tem algum problema?,,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,992.0,2.0,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,category,01,Não está mais deprimido,True,True,True
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,02,O serviço de saúde é distante ou tem dificuldade de transporte,True,True,True
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,03,Não tem ânimo,True,True,True
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,04,O tempo de espera no serviço de saúde é muito grande,True,True,True
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,05,Tem dificuldades financeiras,True,True,True
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,06,O horário de funcionamento do serviço de saúde é incompatível com suas atividades de trabalho ou domésticas,True,True,True
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,07,Não conseguiu marcar consulta pelo plano de saúde ,True,True,True
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,08,Não sabe quem procurar ou aonde ir,True,True,True
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,09,Outro ,True,True,True
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,99,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q09502,Q95a,Qual o principal motivo do(a) Sr(a) não visitar o médico/serviço de saúde regularmente por causa da depressão?,,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,994.0,1.0,Q09605,Q96a,Por causa da depressão Faz psicoterapia,bool,1,Sim,True,True,True
+Módulo Q - Doenças crônicas,,,Q09605,Q96a,Por causa da depressão Faz psicoterapia,,2,Não,True,True,True
+Módulo Q - Doenças crônicas,,,Q09605,Q96a,Por causa da depressão Faz psicoterapia,,9 ,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q09605,Q96a,Por causa da depressão Faz psicoterapia,,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,995.0,1.0,Q09606,Q96a,Por causa da depressão Toma medicamentos,bool,1,Sim,True,True,True
+Módulo Q - Doenças crônicas,,,Q09606,Q96a,Por causa da depressão Toma medicamentos,,2,Não,True,True,True
+Módulo Q - Doenças crônicas,,,Q09606,Q96a,Por causa da depressão Toma medicamentos,,9 ,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q09606,Q96a,Por causa da depressão Toma medicamentos,,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,997.0,1.0,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,category,1,"Sim, todos                  ",True,True,True
+Módulo Q - Doenças crônicas,,,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,,2,"Sim, alguns",True,True,True
+Módulo Q - Doenças crônicas,,,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,,3,"Não, nenhum",True,True,True
+Módulo Q - Doenças crônicas,,,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,,9 ,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q098,Q98,Algum dos medicamentos para depressão foi obtido em serviço público de saúde?,,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,999.0,1.0,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,category,1,Menos de 6 meses,True,True,True
+Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,,2,De 6 meses a menos de 1 ano,True,True,True
+Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,,3,De 1 ano a menos de  2 anos,True,True,True
+Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,,4,De 2 anos a menos de 3 anos,True,True,True
+Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,,5,3 anos ou mais,True,True,True
+Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,,6,Nunca fez,True,True,True
+Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,,9 ,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q10101,Q101a,Quando foi a última vez que o(a) Sr(a) recebeu atendimento médico por causa da depressão?,,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,1000.0,2.0,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",category,01,Farmácia,True,True,True
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,02,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família),True,True,True
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,03,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público",True,True,True
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,04,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público",True,True,True
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,05,Ambulatório de hospital público,True,True,True
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,06,"Consultório particular, clínica privada ou ambulatório de hospital privado",True,True,True
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,07,Pronto atendimento ou emergência de hospital privado,True,True,True
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,08,No domicílio,True,True,True
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,09,Outro serviço,True,True,True
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,99,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q10202,Q102a,"Na última vez que recebeu assistência médica para depressão, onde o(a) Sr(a) foi atendido?",,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,1004.0,1.0,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",category,1,Sim,True,True,True
+Módulo Q - Doenças crônicas,,,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",,2,Não,True,True,True
+Módulo Q - Doenças crônicas,,,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",,3,"Não houve encaminhamento, pois todas as consultas para depressão foram com profissional de saúde mental",True,True,True
+Módulo Q - Doenças crônicas,,,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",,9 ,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q106,Q106,"Em algum dos atendimentos para depressão, houve encaminhamento para algum acompanhamento com profissional de saúde mental, como psiquiatra ou psicólogo?",,,Não aplicável,False,False,False
+Módulo Q - Doenças crônicas,1006.0,1.0,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",category,1,Não limita,True,True,True
+Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",,2,Um pouco,True,True,True
+Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",,3,Moderadamente,True,True,True
+Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",,4,Intensamente,True,True,True
+Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",,5,Muito intensamente,True,True,True
+Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",,9 ,Ignorado,False,False,False
+Módulo Q - Doenças crônicas,,,Q109,Q109,"Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1248.0,1.0,V00201,V2,"Nos últimos doze meses, alguém: Te ofendeu, humilhou ou ridicularizou na frente de outras pessoas?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00201,V2,"Nos últimos doze meses, alguém: Te ofendeu, humilhou ou ridicularizou na frente de outras pessoas?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00201,V2,"Nos últimos doze meses, alguém: Te ofendeu, humilhou ou ridicularizou na frente de outras pessoas?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1249.0,1.0,V00202,V2,"Nos últimos doze meses, alguém: Gritou com você ou te xingou?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00202,V2,"Nos últimos doze meses, alguém: Gritou com você ou te xingou?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00202,V2,"Nos últimos doze meses, alguém: Gritou com você ou te xingou?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1250.0,1.0,V00203,V2,"Nos últimos doze meses, alguém: Usou redes sociais ou celular para ameaçar, ofender, xingar ou expor imagens suas sem o seu consentimento?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00203,V2,"Nos últimos doze meses, alguém: Usou redes sociais ou celular para ameaçar, ofender, xingar ou expor imagens suas sem o seu consentimento?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00203,V2,"Nos últimos doze meses, alguém: Usou redes sociais ou celular para ameaçar, ofender, xingar ou expor imagens suas sem o seu consentimento?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1251.0,1.0,V00204,V2,"Nos últimos doze meses, alguém: Te ameaçou de ferir ou machucar alguém importante para você?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00204,V2,"Nos últimos doze meses, alguém: Te ameaçou de ferir ou machucar alguém importante para você?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00204,V2,"Nos últimos doze meses, alguém: Te ameaçou de ferir ou machucar alguém importante para você?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1252.0,1.0,V00205,V2,"Nos últimos doze meses, alguém: Destruiu alguma coisa sua de propósito?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00205,V2,"Nos últimos doze meses, alguém: Destruiu alguma coisa sua de propósito?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V00205,V2,"Nos últimos doze meses, alguém: Destruiu alguma coisa sua de propósito?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1253.0,1.0,V003,V3,"Nos últimos doze meses, quantas vezes isso aconteceu com você?",category,1,Muitas vezes,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V003,V3,"Nos últimos doze meses, quantas vezes isso aconteceu com você?",,2,Algumas vezes,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V003,V3,"Nos últimos doze meses, quantas vezes isso aconteceu com você?",,3,Uma vez,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V003,V3,"Nos últimos doze meses, quantas vezes isso aconteceu com você?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1254.0,2.0,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",category,01,Cônjuge ou companheiro (a) ,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,02,Ex-Cônjuge ou ex-companheiro (a),True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,03,"Parceiro (a), namorado (a), ex-parceiro (a), ex-namorado (a)  ",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,04,"Pai, mãe, padrasto ou madrasta",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,05,"Filho(a), enteado(a)",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,06,Irmão(ã),True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,07,Outro parente,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,08,"Amigo(a)/colega, vizinho(a)",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,09,Empregado (a) em geral ,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,10,Patrão/patroa/chefe,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,11,Pessoa desconhecida,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,12,Policial,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,13,Outro ,True,True,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V006,V6,"Quem fez isso com você? (Se mais de uma pessoa, defina o pirncipal agressor)",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1256.0,1.0,V007,V7,Onde isso ocorreu?,category,1,Residência,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,,2,Trabalho,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,,3,"Escola, faculdade ou outro estabelecimento de ensino",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,,4,"Bar, restaurante ou similar",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,,5,Via pública ou outro local público,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,,6,Internet/Redes Sociais/Celular,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,,7,Outro ,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V007,V7,Onde isso ocorreu?,,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1257.0,1.0,V01401,V14,"Nos últimos doze meses, alguém: Te deu um tapa ou uma bofetada?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01401,V14,"Nos últimos doze meses, alguém: Te deu um tapa ou uma bofetada?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01401,V14,"Nos últimos doze meses, alguém: Te deu um tapa ou uma bofetada?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1258.0,1.0,V01402,V14,"Nos últimos doze meses, alguém: Te empurrou, segurou com força ou jogou algo em você com a intenção de machucar?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01402,V14,"Nos últimos doze meses, alguém: Te empurrou, segurou com força ou jogou algo em você com a intenção de machucar?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01402,V14,"Nos últimos doze meses, alguém: Te empurrou, segurou com força ou jogou algo em você com a intenção de machucar?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1259.0,1.0,V01403,V14,"Nos últimos doze meses, alguém: Te deu um soco, chutou ou arrastou pelo cabelo?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01403,V14,"Nos últimos doze meses, alguém: Te deu um soco, chutou ou arrastou pelo cabelo?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01403,V14,"Nos últimos doze meses, alguém: Te deu um soco, chutou ou arrastou pelo cabelo?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1260.0,1.0,V01404,V14,"Nos últimos doze meses, alguém: Tentou ou efetivamente estrangulou, asfixiou ou te queimou de propósito?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01404,V14,"Nos últimos doze meses, alguém: Tentou ou efetivamente estrangulou, asfixiou ou te queimou de propósito?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01404,V14,"Nos últimos doze meses, alguém: Tentou ou efetivamente estrangulou, asfixiou ou te queimou de propósito?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1261.0,1.0,V01405,V14,"Nos últimos doze meses, alguém: Te ameaçou ou feriu com uma faca, arma de fogo ou alguma outra arma ou objeto?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01405,V14,"Nos últimos doze meses, alguém: Te ameaçou ou feriu com uma faca, arma de fogo ou alguma outra arma ou objeto?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V01405,V14,"Nos últimos doze meses, alguém: Te ameaçou ou feriu com uma faca, arma de fogo ou alguma outra arma ou objeto?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1262.0,1.0,V015,V15,"Nos últimos doze meses, quantas vezes isso aconteceu?",category,1,Muitas vezes,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V015,V15,"Nos últimos doze meses, quantas vezes isso aconteceu?",,2,Algumas vezes,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V015,V15,"Nos últimos doze meses, quantas vezes isso aconteceu?",,3,Uma vez,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V015,V15,"Nos últimos doze meses, quantas vezes isso aconteceu?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1263.0,2.0,V018,V18,Quem fez isso com você,category,01,Cônjuge ou companheiro (a),True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,02,Ex-Cônjuge ou ex-companheiro (a),True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,03,"Parceiro (a), namorado (a), ex-parceiro (a), ex-namorado (a",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,04,"Pai, mãe, padrasto ou madrasta",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,05,"Filho(a), enteado(a",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,06,Irmão(ã),True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,07,Outro parente,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,08,"Amigo(a)/colega, vizinho(a)",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,09,Empregado (a) em geral ,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,10,Patrão/patroa/chefe(a) ,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,11,Pessoa desconhecida,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,12,Policial,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,13,Outro,True,True,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V018,V18,Quem fez isso com você,,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1265.0,1.0,V019,V19,Onde isso ocorreu?,category,1,Residência,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,,2,Trabalho,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,,3,"Escola, faculdade ou outro estabelecimento de ensino",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,,4,"Bar, restaurante ou similar",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,,5,Via pública ou outro local público,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,,6,Outro,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V019,V19,Onde isso ocorreu?,,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1266.0,1.0,V02701,V27,"Nos últimos doze meses, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02701,V27,"Nos últimos doze meses, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02701,V27,"Nos últimos doze meses, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1267.0,1.0,V02702,V27,"Nos últimos doze meses, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02702,V27,"Nos últimos doze meses, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02702,V27,"Nos últimos doze meses, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1268.0,1.0,V02801,V28,"E alguma vez na vida, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02801,V28,"E alguma vez na vida, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02801,V28,"E alguma vez na vida, alguém: tocou, manipulou, beijou ou expôs partes do seu corpo contra sua vontade",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1269.0,1.0,V02802,V28,"E alguma vez na vida, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02802,V28,"E alguma vez na vida, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V02802,V28,"E alguma vez na vida, alguém: Te ameaçou ou forçou a ter relações sexuais ou quaisquer outros atos sexuais contra sua vontade?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1270.0,1.0,V029,V29,"Nos últimos doze meses, quantas vezes isso aconteceu?",category,1,Muitas vezes,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V029,V29,"Nos últimos doze meses, quantas vezes isso aconteceu?",,2, Algumas vezes,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V029,V29,"Nos últimos doze meses, quantas vezes isso aconteceu?",,3, Uma vez,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V029,V29,"Nos últimos doze meses, quantas vezes isso aconteceu?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1271.0,2.0,V032,V32,Quem fez isso com você,category,01,Cônjuge ou companheiro (a),True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,02,Ex-Cônjuge ou ex-companheiro (a,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,03,"Parceiro (a), namorado (a), ex-parceiro (a), ex-namorado (a)",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,04,"Pai, mãe, padrasto ou madrasta",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,05,"Filho(a), enteado(a)   ",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,06, Irmão(ã),True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,07,Outro parente,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,08,"Amigo(a)/colega, vizinho(a",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,09,Empregado (a) em geral ,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,10,Patrão/patroa/chefe,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,11,Pessoa desconhecida,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,12,Policial,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,13,Outro,True,True,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V032,V32,Quem fez isso com você,,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1273.0,1.0,V033,V33,Onde isso ocorreu?,category,1,Residência,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,,2,Trabalho,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,,3,"Escola, faculdade ou outro estabelecimento de ensino",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,,4,"Bar, restaurante ou similar",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,,5,Via pública ou outro local público,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,,6,Outro ,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V033,V33,Onde isso ocorreu?,,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1274.0,1.0,V034,V34,"Nos últimos doze meses, você deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desse ato",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V034,V34,"Nos últimos doze meses, você deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desse ato",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V034,V34,"Nos últimos doze meses, você deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desse ato",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1275.0,1.0,V03501,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Hematomas, cortes, fraturas, queimaduras ou outras lesões físicas ou ferimentos?",bool,1,,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03501,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Hematomas, cortes, fraturas, queimaduras ou outras lesões físicas ou ferimentos?",,2,,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03501,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Hematomas, cortes, fraturas, queimaduras ou outras lesões físicas ou ferimentos?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1276.0,1.0,V03502,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Medo, tristeza, desânimo, dificuldade para dormir, ansiedade, depressão ou outras consequências psicológicas?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03502,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Medo, tristeza, desânimo, dificuldade para dormir, ansiedade, depressão ou outras consequências psicológicas?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03502,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Medo, tristeza, desânimo, dificuldade para dormir, ansiedade, depressão ou outras consequências psicológicas?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1277.0,1.0,V03503,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Doença sexualmente transmissível ou gravidez indesejada?",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03503,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Doença sexualmente transmissível ou gravidez indesejada?",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V03503,V35,"Esse(s) ato(s) sexual(is) forçado(s) gerou(aram) alguma consequência para sua saúde, tais como: Doença sexualmente transmissível ou gravidez indesejada?",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1278.0,1.0,V036,V36,"Por causa desta (s) consequência (s), você procurou algum atendimento de saúde",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V036,V36,"Por causa desta (s) consequência (s), você procurou algum atendimento de saúde",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V036,V36,"Por causa desta (s) consequência (s), você procurou algum atendimento de saúde",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1279.0,1.0,V037,V37,"Por causa desta (s) consequência (s), você recebeu algum atendimento de saúde",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V037,V37,"Por causa desta (s) consequência (s), você recebeu algum atendimento de saúde",,2,Não ,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V037,V37,"Por causa desta (s) consequência (s), você recebeu algum atendimento de saúde",,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1280.0,2.0,V038,V38,Onde foi realizado este atendimento de saúde,category,01,No local,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,02, Farmácia.,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,03,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família).,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,04,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,05,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público.",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,06,Ambulatório de hospital público.,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,07,"Consultório particular, clínica privada ou ambulatório de hospital privado.",True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,08,Pronto atendimento ou emergência de hospital privado.,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,09, No domicílio,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,10,Outro serviço,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V038,V38,Onde foi realizado este atendimento de saúde,,,Não aplicável,False,False,False
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),1282.0,1.0,V039,V39,"Por causa desta (s) consequência (s), você precisou ser internado por 24 horas ou mais",bool,1,Sim,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V039,V39,"Por causa desta (s) consequência (s), você precisou ser internado por 24 horas ou mais",,2,Não,True,True,
+  Módulo V - Violência (Para pessoas de 18 anos ou mais de idade),,,V039,V39,"Por causa desta (s) consequência (s), você precisou ser internado por 24 horas ou mais",,,Não aplicável,False,False,False
+Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),1304.0,1.0,Y008,Y8,Qual é a sua orientação sexual?,category,1,Heterosexual,True,True,True
+Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,,2,Bissexual,True,True,True
+Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,,3,Homosexual,True,True,True
+Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,,4,Outra orientação,True,True,True
+Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,,5,Não sabe ,True,True,True
+Módulo Y - Atividade sexual (Para pessoas de 18 anos ou mais de idade),,,Y008,Y8,Qual é a sua orientação sexual?,,6,Recusou-se a responder,True,True,True
