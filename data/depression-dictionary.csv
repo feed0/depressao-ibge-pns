@@ -70,6 +70,11 @@ Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado c
 Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,,4,Solteiro(a),True,True,True
 Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,,9,Ignorado,False,False,False
 Módulo C - Características gerais dos moradores ,,,C011,C11,Qual é o estado civil de ___?,,,Não aplicável,False,False,False
+Módulo C - Características gerais dos moradores ,134.0,1.0,C012,C12,Informante do Módulo C,category,1,A própria pessoa,True,True,
+Módulo C - Características gerais dos moradores ,,,C012,C12,Informante do Módulo C,,2,Outro morador,True,True,
+Módulo C - Características gerais dos moradores ,,,C012,C12,Informante do Módulo C,,3,Pessoa não moradora,True,True,
+Módulo C - Características gerais dos moradores ,,,C012,C12,Informante do Módulo C,,9,Ignorado,False,False,
+Módulo C - Características gerais dos moradores ,,,C012,C12,Informante do Módulo C,,,Não aplicável,False,False,
 Módulo D - Características de educação dos moradores,146.0,2.0,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,category,01,Creche,True,True,True
 Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,02,Pré-escola ,True,True,True
 Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,03,Classe de alfabetização – CA ,True,True,True
@@ -87,6 +92,11 @@ Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o
 Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,15,Doutorado,True,True,True
 Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,99,Ignorado,False,False,False
 Módulo D - Características de educação dos moradores,,,D00901,D9a,Qual foi o curso mais elevado que ___frequentou,,,Não aplicável,False,False,False
+Módulo D - Características de educação dos moradores,156.0,2.0,D015,D15,Informante do Módulo D,category,1,A própria pessoa,True,True,
+Módulo D - Características de educação dos moradores,,,D015,D15,Informante do Módulo D,,2,Outro morador   ,True,True,
+Módulo D - Características de educação dos moradores,,,D015,D15,Informante do Módulo D,,3,Não morador,True,True,
+Módulo D - Características de educação dos moradores,,,D015,D15,Informante do Módulo D,,9,Ignorado,False,False,
+Módulo D - Características de educação dos moradores,,,D015,D15,Informante do Módulo D,,,Não aplicável,False,False,
 Módulo I - Cobertura de Plano de Saúde,355.0,1.0,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",bool,1,Sim,True,True,True
 Módulo I - Cobertura de Plano de Saúde,,,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",,2,Não,True,True,True
 Módulo I - Cobertura de Plano de Saúde,,,I00102,I1b,"tem algum plano de saúde médico particular, de empresa ou órgão público?",,9 ,Ignorado,False,False,False
@@ -109,6 +119,14 @@ Módulo I - Cobertura de Plano de Saúde,367.0,1.0,I00404,I4a,O plano de saúde 
 Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,,2,Não,True,True,True
 Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,,9 ,Ignorado,False,False,False
 Módulo I - Cobertura de Plano de Saúde,,,I00404,I4a,O plano de saúde (único ou principal) de assistência médica que ___ possui dá direito a partos,,,Não aplicável,False,False,False
+Módulo I - Cobertura de Plano de Saúde,369.0,1.0,I012,I12,Informante do Módulo I,category,1,A própria pessoa,True,True,
+Módulo I - Cobertura de Plano de Saúde,,,I012,I12,Informante do Módulo I,,2,Outro morador      ,True,True,
+Módulo I - Cobertura de Plano de Saúde,,,I012,I12,Informante do Módulo I,,3,Não morador,True,True,
+Módulo I - Cobertura de Plano de Saúde,,,I012,I12,Informante do Módulo I,,9,Ignorado,False,False,
+Módulo I - Cobertura de Plano de Saúde,,,I012,I12,Informante do Módulo I,,,Não aplicável,False,False,
+Módulo M - Características do trabalho e apoio social,530.0,1.0,M00302,M3a,O informante desta parte é:,category,1,Pessoa  moradora ,True,True,
+Módulo M - Características do trabalho e apoio social,,,M00302,M3a,O informante desta parte é:,,2,Não morador,True,True,
+Módulo M - Características do trabalho e apoio social,,,M00302,M3a,O informante desta parte é:,,,Não aplicável,False,False,
 Módulo M - Características do trabalho e apoio social,536.0,1.0,M005010,M5c,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",bool,1,Sim,True,True,True
 Módulo M - Características do trabalho e apoio social,,,M005010,M5c,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",,2,Não,True,True,True
 Módulo M - Características do trabalho e apoio social,,,M005010,M5c,"No(s) seu(s) trabalho(s), habitualmente, (s) o(a) Sr(a) trabalha(va) algum período de tempo entre as 8 horas da noite e às 5 horas da manhã",,,Não aplicável,False,False,False
